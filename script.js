@@ -1,13 +1,13 @@
 let fiels = [
     null,
-  'circle',
-  'circle',
-  'circle',
-  null,
-  null,
-  'cross',
-  'cross',
-  null,
+    'circle',
+    'circle',
+    'circle',
+    null,
+    null,
+    'cross',
+    'cross',
+    null,
 ];
 
 function init(){
